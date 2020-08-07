@@ -1,2 +1,4 @@
 # Sea-pLuS-pLuS
-C ++++++++++++
+C ++
+
+i.e A bigger `Sea`, or maybe even an `Ocean`!
