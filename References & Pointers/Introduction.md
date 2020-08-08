@@ -4,6 +4,6 @@ Everything we put into memory has an address.
 
 For example, when we declare and initialize an `int` variable named `score`:
 
-_int power = 200;_
+_int score = 200;_
 
 This will set aside an **int-size** piece of memory for the variable **score** somewhere and put the value `200` into that memory.
