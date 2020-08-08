@@ -7,3 +7,9 @@ For example, when we declare and initialize an `int` variable named `score`:
 _int score = 200;_
 
 This will set aside an **int-size** piece of memory for the variable **score** somewhere and put the value `200` into that memory.
+
+This is where come in-
+* References
+* Pointers
+
+These are some of the most powerful features in C++; they allow programmers to **directly manipulate memory** – the most critical and scarce resource in computer – in order to optimize performance.
