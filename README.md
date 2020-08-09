@@ -1,4 +1,4 @@
 # Sea-pLuS-pLuS
 C ++
 
-i.e. A bigger `Sea`, or sometimes an `Ocean`!
+i.e. A bigger `C`, sometimes even called as an `Ocean`!
