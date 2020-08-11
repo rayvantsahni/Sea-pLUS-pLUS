@@ -6,3 +6,5 @@ Thankfully not! When two functions have different types but the same body, there
 A template is a C++ tool that allows programmers to add data types as parameters.
 
 This feature comes in handy for classes as well as for functions. In fact, `std::string` and `std::vector` are both template-based types.
+
+![image](https://user-images.githubusercontent.com/38404580/89954751-4a949500-dc4f-11ea-841a-0e03a86b175f.png)
