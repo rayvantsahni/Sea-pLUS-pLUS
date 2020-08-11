@@ -24,3 +24,8 @@ Similarly, when a function has **two default arguments**, **you still need to ca
 
 * ### The first argument IS the default value.
 * ### The second argument is NOT the default value.
+
+
+![image](https://user-images.githubusercontent.com/38404580/89953583-fdafbf00-dc4c-11ea-9f01-9010c74c30bb.png)
+
+![image](https://user-images.githubusercontent.com/38404580/89953631-1029f880-dc4d-11ea-823d-a2bf744c4ea5.png)
