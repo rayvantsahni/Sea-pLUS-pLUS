@@ -13,3 +13,16 @@ This is where come in-
 * Pointers
 
 These are some of the most powerful features in C++; they allow programmers to **directly manipulate memory** – the most critical and scarce resource in computer – in order to optimize performance.
+
+
+### References
+* Pass-by-reference
+* Pass-by-reference with `const`
+
+### Pointers
+* Dereferencing a pointer
+* nullptr
+
+_int &reference = original; //Reference_
+
+_int* pointer = &original; //Pointer_
