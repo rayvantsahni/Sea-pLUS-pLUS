@@ -28,6 +28,8 @@ So now `ptr` has a value of **gum‘s memory address**.
 #### Note: 
 Syntactically, spaces around `*` do not matter, but the best practice is to have it after the data type.
 
-int* number;
-int *number;
-int * number;
+*int* number;*
+
+*int *number;*
+
+*int * number;*
