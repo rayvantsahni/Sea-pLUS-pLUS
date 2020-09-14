@@ -4,19 +4,19 @@ While references are a newer mechanism that originated in C++, pointers are an o
 
 Pointers must be declared before they can be used, just like a normal variable. They are syntactically distinguished by the `*`, so that `int*` means **“pointer to int“** and `double*` means **“pointer to double“**.
 
-*int* number;*
+_int* number;_
 
-*double* decimal;*
+_double* decimal;_
 
-*char* character;*
+_char* character;_
 
 So suppose we have a variable called *gum*:
 
-*int gum = 8;*
+_int gum = 8;_
 
 We can create a pointer to it by:
 
-*int* ptr = &gum;*
+_int* ptr = &gum;_
 
 * `int*` makes it a pointer rather than a normal variable.
 * `ptr` is the pointer name.
@@ -28,8 +28,8 @@ So now `ptr` has a value of **gum‘s memory address**.
 #### Note: 
 Syntactically, spaces around `*` do not matter, but the best practice is to have it after the data type.
 
-*int* number;*
+_int* number;_
 
-*int *number;*
+_int *number;_
 
-*int * number;*
+_int * number;_
